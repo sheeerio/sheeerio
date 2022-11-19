@@ -3,3 +3,4 @@
 <hr>
 
 <p align="center">Personal corner of the internet. Build with Next.js, TailwindCSS, MDX & Contentlayer.</p>
+# sheeerio.github.io
