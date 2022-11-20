@@ -22,12 +22,6 @@ export const Navigation: Action[] = [
     href: '/writing',
     section: 'Navigation',
   },
-  {
-    name: 'Tools',
-    keywords: 'tools',
-    href: '/tools',
-    section: 'Navigation',
-  },
 ]
 
 export const Socials: Action[] = [
@@ -35,7 +29,7 @@ export const Socials: Action[] = [
     name: 'GitHub',
     keywords: 'github',
     perform: () => {
-      window.open('https://github.com/cristicretu')
+      window.open('https://github.com/sheeerio')
     },
     section: 'Socials',
   },
@@ -43,7 +37,7 @@ export const Socials: Action[] = [
     name: 'Twitter',
     keywords: 'twitter',
     perform: () => {
-      window.open('https://twitter.com/cristicrtu')
+      window.open('https://twitter.com/sheeptester')
     },
     section: 'Socials',
   },

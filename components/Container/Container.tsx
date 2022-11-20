@@ -107,7 +107,7 @@ export default function Container({
             <Link href='/'>
               <a className='relative h-10 w-10'>
                 <Image
-                  src='/static/images/logo.png'
+                  src='/static/images/logo.jpeg'
                   alt='logo'
                   className='absolute inset-0 object-cover rounded-full'
                   objectFit='cover'

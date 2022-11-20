@@ -11,7 +11,7 @@ interface IFooterProps {
 
 function dateToLocalTime(date: Date): string {
   return date.toLocaleString('ro-RO', {
-    timeZone: 'Europe/Bucharest',
+    timeZone: 'America/Vancouver',
     hour: 'numeric',
     minute: 'numeric',
     second: 'numeric',

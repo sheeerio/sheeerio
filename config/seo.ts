@@ -2,23 +2,23 @@ export const baseUrl =
   process.env.NODE_ENV === 'production' ? 'https://cretu.dev' : ''
 
 export const defaultSEO = {
-  title: 'Cristian Crețu',
-  description: 'Developer and designer.',
+  title: 'Gunbir Singh Baveja',
+  description: 'Undergraduate student at UBC.',
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: baseUrl,
-    site_name: 'Cristian Crețu',
+    site_name: 'Gunbir Singh Baveja',
     images: [
       {
         url: `${baseUrl}/static/images/og.png`,
-        alt: 'Cristian Crețu',
+        alt: 'Gunbir Singh Baveja',
       },
     ],
   },
   twitter: {
-    handle: '@cristicrtu',
-    site: '@cristicrtu',
+    handle: '@sheeptester',
+    site: '@sheeptester',
     cardType: 'summary_large_image',
   },
 }

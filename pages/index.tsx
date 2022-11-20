@@ -3,8 +3,6 @@ import { Suspense } from 'react'
 import type { NextPage } from 'next'
 
 import Container from '@components/Container'
-import { MemoizedEndeavors } from '@components/Endeavors'
-import { endeavorsList } from '@data/endeavors/endeavorsItems'
 
 const Home: NextPage = () => {
   return (
@@ -35,18 +33,14 @@ const Home: NextPage = () => {
             <p>
               Ardent in reading, writing, and improving consistently through
               learning. Currently interested in Reinforcement Learning and
-              Number Theory. Curious about re-implementation of micrograd in
+              Number Theory. Curious about re-implementation of {'.'}
+              <a href='https://github.com/karpathy/micrograd'>micrograd</a> in
               Racket.
             </p>
           </div>
           <div className='flex flex-col gap-4'>
-            <h3 className='font-semibold text-lg'>Recent endeavors</h3>
             <Suspense fallback={null}>
-              <div className='flex gap-6 overflow-x-scroll w-[100vw] relative left-1/2 right-1/2 -mx-[50vw] px-4 snap-x snap-mandatory masked-overflow'>
-                {endeavorsList.map((item, key) => (
-                  <MemoizedEndeavors key={key} endeavor={item} />
-                ))}
-              </div>
+              <div className='flex gap-6 overflow-x-scroll w-[100vw] relative left-1/2 right-1/2 -mx-[50vw] px-4 snap-x snap-mandatory masked-overflow'></div>
             </Suspense>
           </div>
         </header>

@@ -13,15 +13,15 @@ interface IWritingLayoutProps {
 }
 
 const editUrl = (slug: string) =>
-  `https://github.com/cristicretu/cretu.dev/edit/main/data/writing/${slug}.mdx`
+  `https://github.com/sheeerio/sheeerio.github.io/edit/main/data/writing/${slug}.mdx`
 
 export default function WritingLayout({ post, children }: IWritingLayoutProps) {
   return (
     <Container
       writingNav={post.slug}
-      title={`${post.title} - Cristian Crețu`}
+      title={`${post.title} - Gunbir Baveja`}
       description={post.summary}
-      image={`https://cretu.dev/${post.image}`}
+      image={`https://sheeerio.github.io/${post.image}`}
       date={new Date(post.publishedAt).toISOString()}
       type='article'
       back={{
@@ -36,7 +36,7 @@ export default function WritingLayout({ post, children }: IWritingLayoutProps) {
         </h1>
         <div className='flex flex-col items-start justify-between w-full mt-2 md:flex-row md:items-center'>
           <div className='text-sm flex flex-row gap-2 divide-x divide-gray-300 dark:divide-gray-700 items-center text-secondary'>
-            <p>Cristian Crețu</p>
+            <p>Gunbir Baveja</p>
             <p className='pl-2'>
               {format(parseISO(post.publishedAt), 'MMMM dd, yyyy')}
             </p>
