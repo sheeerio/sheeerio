@@ -42,7 +42,7 @@ export default function Container({
   children,
   title = 'Gunbir Singh Baveja.',
   description = 'student at UBC.',
-  image = 'https://sheeerio.vercel.app/static/images/og.png',
+  image = '',
   date,
   page,
   ...props
