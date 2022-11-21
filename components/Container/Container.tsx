@@ -40,9 +40,9 @@ export default function Container({
   writingNav = '',
   showNav = true,
   children,
-  title = 'Cristian Crețu - Developer & Designer.',
-  description = 'Full-stack developer and digital artist.',
-  image = 'https://cretu.dev/static/images/og.png',
+  title = 'Gunbir Singh Baveja.',
+  description = 'student at UBC.',
+  image = 'https://sheeerio.vercel.app/static/images/og.png',
   date,
   page,
   ...props
