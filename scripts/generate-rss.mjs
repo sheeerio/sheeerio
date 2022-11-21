@@ -7,14 +7,14 @@ import { allWritings } from '../.contentlayer/generated/index.mjs'
 async function generate() {
   const feed = new RSS({
     title: 'Cristian Crețu',
-    site_url: 'https://cretu.dev',
-    feed_url: `https://cretu.dev/feed.xml`,
+    site_url: 'https://sheeerio.vercel.app',
+    feed_url: `https://sheeerio.vercel.app/feed.xml`,
   })
 
   allWritings.map(post => {
     feed.item({
       title: post.title,
-      url: `https://cretu.dev/writing/${post.slug}`,
+      url: `https://sheeerio.vercel.app/writing/${post.slug}`,
       date: post.publishedAt,
       description: post.summary,
     })

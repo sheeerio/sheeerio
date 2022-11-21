@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://cretu.dev/sitemap.xml
+Sitemap: https://sheeerio.vercel.app/sitemap.xml

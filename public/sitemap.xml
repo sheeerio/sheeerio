@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cretu.dev</loc>
+    <loc>https://sheeerio.vercel.app</loc>
   </url>
 
   <url>
-    <loc>https://cretu.dev/writing</loc>
+    <loc>https://sheeerio.vercel.app/writing</loc>
   </url>
 
   <url>
-    <loc>https://cretu.dev/writing/breast-cancer-pca</loc>
+    <loc>https://sheeerio.vercel.app/writing/breast-cancer-pca</loc>
   </url>
 
   <url>
-    <loc>https://cretu.dev/writing/learn-web</loc>
+    <loc>https://sheeerio.vercel.app/writing/learn-web</loc>
   </url>
 </urlset>

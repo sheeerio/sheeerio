@@ -27,7 +27,7 @@ async function generate() {
             const route = path === '/index' ? '' : path
             return `
               <url>
-                  <loc>${`https://cretu.dev${route}`}</loc>
+                  <loc>${`https://sheeerio.vercel.app${route}`}</loc>
               </url>
             `
           })

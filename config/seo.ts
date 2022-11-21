@@ -1,5 +1,5 @@
 export const baseUrl =
-  process.env.NODE_ENV === 'production' ? 'https://cretu.dev' : ''
+  process.env.NODE_ENV === 'production' ? 'https://sheeerio.vercel.app' : ''
 
 export const defaultSEO = {
   title: 'Gunbir Singh Baveja',
