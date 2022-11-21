@@ -25,12 +25,6 @@ const Home: NextPage = () => {
               that involves a creative process.
             </p>
             <p>
-              Striving towards unique experiences that feel magical and that
-              give a blissful feeling. Unlimitedly obsessed with solving
-              problems where design and engineering intersect by creating
-              pixel-perfect, polished interfaces.
-            </p>
-            <p>
               Ardent in reading, writing, and improving consistently through
               learning. Currently interested in Reinforcement Learning and
               Number Theory. Curious about re-implementation of {'.'}
