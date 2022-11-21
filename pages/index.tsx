@@ -18,11 +18,11 @@ const Home: NextPage = () => {
             </h2>
           </div>
           <div className='flex flex-col gap-6 leading-7 text-secondary max-w-lg'>
+            <p>I am an undeclared undergraduate at UBC. Si.</p>
             <p>
-              I’m passionate about design and simplicity, with a strong
-              attraction towards software, robotics, and engineering. Since the
-              start, I’ve focused on improving products by applying knowledge
-              that involves a creative process.
+              goofy nerd who&apos;s into asian goths and capybaras{'.'}
+              do&apos;nt get him started on maths otherwise you&apos;re in for a
+              lesson{'.'}
             </p>
             <p>
               Ardent in reading, writing, and improving consistently through
