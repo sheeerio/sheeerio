@@ -1,5 +1,5 @@
 {
-  "name": "cretu.dev",
+  "name": "sheeerio",
   "version": "3.0.0",
   "private": true,
   "scripts": {
@@ -63,13 +63,13 @@
   },
   "license": "MIT",
   "author": {
-    "email": "crisemcr@gmail.com",
-    "name": "Cristian Crețu",
-    "url": "https://cretu.dev"
+    "email": "sheerio105@gmail.com",
+    "name": "Gunbir Singh Baveja",
+    "url": "https://sheeerio.vercel.app"
   },
-  "homepage": "https://cretu.dev",
+  "homepage": "https://sheeerio.vercel.app",
   "bugs": {
-    "url": "https://github.com/cristicretu/cretu.dev/issues"
+    "url": "https://github.com/sheeerio/sheeerio"
   },
   "browserslist": {
     "production": [
