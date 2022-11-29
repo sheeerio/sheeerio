@@ -14,20 +14,15 @@ const Home: NextPage = () => {
               Gunbir Singh Baveja
             </h1>
             <h2 className='font-extrabold text-5xl leading-tight max-w-lg'>
-              Math/linguistics enthusiast trying to go for AI.
+              17 year old Math and Linguistics enthusiast.
             </h2>
           </div>
           <div className='flex flex-col gap-6 leading-7 text-secondary max-w-lg'>
-            <p>I am an undeclared undergraduate at UBC. Si.</p>
-            <p>
-              goofy nerd who&apos;s into asian goths and capybaras{'.'}
-              do&apos;nt get him started on maths otherwise you&apos;re in for a
-              lesson{'.'}
-            </p>
+            <p>I am an undeclared undergraduate at UBC.</p>
             <p>
               Ardent in reading, writing, and improving consistently through
-              learning. Currently interested in Reinforcement Learning and
-              Number Theory. Curious about re-implementation of {'.'}
+              learning. Currently studying Deep Learning and
+              Group Theory. Curious about re-implementation of {'.'}
               <a href='https://github.com/karpathy/micrograd'>micrograd</a> in
               Racket.
             </p>
