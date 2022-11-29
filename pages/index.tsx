@@ -21,8 +21,8 @@ const Home: NextPage = () => {
             <p>I am an undeclared undergraduate at UBC.</p>
             <p>
               Ardent in reading, writing, and improving consistently through
-              learning. Currently studying Deep Learning and
-              Group Theory. Curious about re-implementation of {'.'}
+              learning. Currently studying Deep Learning and Group Theory.
+              Curious about re-implementation of {'.'}
               <a href='https://github.com/karpathy/micrograd'>micrograd</a> in
               Racket.
             </p>
