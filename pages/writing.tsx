@@ -17,24 +17,24 @@ const WritingPage = ({ posts }: { posts: Writing[] }) => {
     >
       <h1 className='font-semibold text-xl'>Writing</h1>
       {posts.map((post, index) => (
-        <Link key={post.slug} href={`/writing/${post.slug}`}>
-          <a
-            className={cn(
-              'flex flex-row justify-between py-2 px-2 -mx-2 rounded-md',
-              'hover:bg-gray-200 dark:hover:bg-gray-800',
-              'transition-all duration-200'
-            )}
-          >
-            <span className='text-quaternary pr-4 '>
-              {posts.length - index > 10
-                ? posts.length - index
-                : `0${posts.length - index}`}
-            </span>
-            <span className='flex-grow truncate mr-2'>{post.title}</span>
-            <span className='text-tertiary flex-shrink-0'>
-              {format(parseISO(post.publishedAt), 'MMMM dd, yyyy')}
-            </span>
-          </a>
+        <Link
+          key={post.slug}
+          href={`/writing/${post.slug}`}
+          className={cn(
+            'flex flex-row justify-between py-2 px-2 -mx-2 rounded-md',
+            'hover:bg-gray-200 dark:hover:bg-gray-800',
+            'transition-all duration-200'
+          )}
+        >
+          <span className='text-quaternary pr-4 '>
+            {posts.length - index > 10
+              ? posts.length - index
+              : `0${posts.length - index}`}
+          </span>
+          <span className='flex-grow truncate mr-2'>{post.title}</span>
+          <span className='text-tertiary flex-shrink-0'>
+            {format(parseISO(post.publishedAt), 'MMMM dd, yyyy')}
+          </span>
         </Link>
       ))}
     </Container>
