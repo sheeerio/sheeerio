@@ -1,7 +1,6 @@
 import { Suspense, useSyncExternalStore } from 'react'
 
 import { GitHubLogoIcon, TwitterLogoIcon } from '@modulz/radix-icons'
-import useSWR from 'swr'
 
 interface IFooterProps {
   page?: string
