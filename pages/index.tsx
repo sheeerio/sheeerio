@@ -20,11 +20,9 @@ const Home: NextPage = () => {
           <div className='flex flex-col gap-6 leading-7 text-secondary max-w-lg'>
             <p>I am an undeclared undergraduate at UBC.</p>
             <p>
-              Ardent in reading, writing, and improving consistently through
-              learning. Currently studying Deep Learning and Group Theory.
-              Curious about re-implementation of {'.'}
-              <a href='https://github.com/karpathy/micrograd'>micrograd</a> in
-              Racket.
+              Mainly interested in the intersection of Neurosciene and AI-- basically, 
+              the simulation/creation of an artificial human-like AI. Interested in the 
+              simulating the process of learning.
             </p>
           </div>
           <div className='flex flex-col gap-4'>
