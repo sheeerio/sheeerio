@@ -21,8 +21,8 @@ const Home: NextPage = () => {
             <p>I am an undeclared undergraduate at UBC.</p>
             <p>
               Mainly interested in the intersection of Neurosciene and AI, and
-              the simulation/creation of an artificial human-like AI. Interested
-              in the simulation the process of learning.
+              the simulation/creation of an artificial human-like intelligence.
+              Interested in the simulation the process of learning.
             </p>
           </div>
           <div className='flex flex-col gap-4'>
