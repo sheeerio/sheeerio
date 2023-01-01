@@ -20,9 +20,9 @@ const Home: NextPage = () => {
           <div className='flex flex-col gap-6 leading-7 text-secondary max-w-lg'>
             <p>I am an undeclared undergraduate at UBC.</p>
             <p>
-              Mainly interested in the intersection of Neurosciene and AI, and
+              Mainly interested in the intersection of Neuroscience and AI, and
               the simulation/creation of an artificial human-like intelligence.
-              Interested in the simulation the process of learning.
+              Interested in simulating the process of learning.
             </p>
           </div>
           <div className='flex flex-col gap-4'>
