@@ -22,7 +22,9 @@ const Home: NextPage = () => {
             <p>
               Mainly interested in the intersection of Neuroscience and AI, and
               the simulation/creation of an artificial human-like intelligence.
-              Interested in simulating the process of learning.
+              Interested in simulating the process of learning. Here, I will be
+               publishing the posts from
+               <a href='https://www.lesswrong.com/'>LessWrong</a>.
             </p>
           </div>
           <div className='flex flex-col gap-4'>

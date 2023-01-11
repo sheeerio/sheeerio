@@ -4,10 +4,10 @@
         <description><![CDATA[Cristian Crețu]]></description>
         <link>https://sheeerio.vercel.app</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Mon, 05 Dec 2022 06:40:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Jan 2023 18:28:28 GMT</lastBuildDate>
         <atom:link href="https://sheeerio.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
-            <title><![CDATA[Learning in 2022]]></title>
+            <title><![CDATA[*Deep* Learning]]></title>
             <description><![CDATA[first post.]]></description>
             <link>https://sheeerio.vercel.app/writing/learn-web</link>
             <guid isPermaLink="true">https://sheeerio.vercel.app/writing/learn-web</guid>
