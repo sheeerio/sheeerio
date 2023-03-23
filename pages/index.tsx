@@ -24,6 +24,9 @@ const Home: NextPage = () => {
               the simulation/creation of an artificial human-like intelligence.
               Interested in simulating the process of learning.
             </p>
+            <p>
+              <a href="data/writing/learn-web.mdx">NEW blog post!</a>
+            </p>
           </div>
           <div className='flex flex-col gap-4'>
             <Suspense fallback={null}>
