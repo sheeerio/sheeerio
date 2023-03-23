@@ -1,6 +1,7 @@
 import { Suspense } from 'react'
 
 import type { NextPage } from 'next'
+import Link from 'next/link'
 
 import Container from '@components/Container'
 
@@ -25,7 +26,7 @@ const Home: NextPage = () => {
               Interested in simulating the process of learning.
             </p>
             <p>
-              <a href="data/writing/learn-web.mdx">NEW blog post!</a>
+              <Link href='/writing/learn-web'>NEW blog post!</Link>
             </p>
           </div>
           <div className='flex flex-col gap-4'>
