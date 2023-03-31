@@ -6,8 +6,6 @@ import { defaultSEO } from 'config/seo'
 export function SEO() {
   return (
     <>
-      <DefaultSeo {...defaultSEO} />
-
       <Head>
         <link rel='icon' href='/static/favicons/favicon.ico' sizes='any' />
         <link
