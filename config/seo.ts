@@ -11,7 +11,6 @@ export const defaultSEO = {
     site_name: 'Gunbir Singh Baveja',
     images: [
       {
-        url: `${baseUrl}/static/images/og.png`,
         alt: 'Gunbir Singh Baveja',
       },
     ],

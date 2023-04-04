@@ -6,7 +6,7 @@ import { allWritings } from '../.contentlayer/generated/index.mjs'
 
 async function generate() {
   const feed = new RSS({
-    title: 'Cristian Crețu',
+    title: 'Gunbir Baveja',
     site_url: 'https://sheeerio.vercel.app',
     feed_url: `https://sheeerio.vercel.app/feed.xml`,
   })

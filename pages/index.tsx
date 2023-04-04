@@ -1,6 +1,7 @@
 import { Suspense } from 'react'
 
 import type { NextPage } from 'next'
+import Link from 'next/link'
 
 import Container from '@components/Container'
 
@@ -14,7 +15,7 @@ const Home: NextPage = () => {
               Gunbir Singh Baveja
             </h1>
             <h2 className='font-extrabold text-5xl leading-tight max-w-lg'>
-              17 year old science enthusiast.
+              18 year old science enthusiast.
             </h2>
           </div>
           <div className='flex flex-col gap-6 leading-7 text-secondary max-w-lg'>
@@ -23,6 +24,9 @@ const Home: NextPage = () => {
               Mainly interested in the intersection of Neuroscience and AI, and
               the simulation/creation of an artificial human-like intelligence.
               Interested in simulating the process of learning.
+            </p>
+            <p>
+              <Link href='/writing/learn-web'>NEW blog post!</Link>
             </p>
           </div>
           <div className='flex flex-col gap-4'>
