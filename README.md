@@ -1,12 +1,12 @@
 <h1 align="center">Hi, I'm Gunbir Singh Baveja</h1>
 
-- 🔭 I’m currently working on **stuff**
+- I’m currently working on **stuff**
 
-- 🌱 I’m currently learning **mathematics**
+- I’m currently learning **mathematics**
 
-- 📝 I regularly write articles on [sheeerio.vercel.app](sheeerio.vercel.app)
+- I regularly write articles on [sheeerio.vercel.app](sheeerio.vercel.app)
 
-- 📫 How to reach me **gbaveja[at]student[dot]ubc[dot]ca**
+- How to reach me **gbaveja[at]student[dot]ubc[dot]ca**
 
 - ⚡ Fun fact **I like linguistics AND certain philosophy texts**
 
