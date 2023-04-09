@@ -8,7 +8,7 @@
 
 - How to reach me **gbaveja[at]student[dot]ubc[dot]ca**
 
-- ⚡ Fun fact **I like linguistics AND certain philosophy texts**
+- Fun fact **I like linguistics AND certain philosophy texts**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
