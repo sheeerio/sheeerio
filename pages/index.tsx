@@ -26,7 +26,7 @@ const Home: NextPage = () => {
               Interested in simulating the process of learning.
             </p>
             <p>
-              <Link href='/writing/learn-web'>NEW blog post!</Link>
+              <Link href='/writing/acc'>NEW blog post!</Link>
             </p>
           </div>
           <div className='flex flex-col gap-4'>
