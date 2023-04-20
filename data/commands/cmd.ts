@@ -37,7 +37,7 @@ export const Socials: Action[] = [
     name: 'Twitter',
     keywords: 'twitter',
     perform: () => {
-      window.open('https://twitter.com/sheeptester')
+      window.open('https://twitter.com/typeduser')
     },
     section: 'Socials',
   },

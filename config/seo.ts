@@ -16,8 +16,8 @@ export const defaultSEO = {
     ],
   },
   twitter: {
-    handle: '@sheeptester',
-    site: '@sheeptester',
+    handle: '@typeduser',
+    site: '@typeduser',
     cardType: 'summary_large_image',
   },
 }

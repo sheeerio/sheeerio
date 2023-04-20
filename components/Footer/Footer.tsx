@@ -85,7 +85,7 @@ export default function Footer({ page }: IFooterProps): JSX.Element {
         )}
         <div className='flex flex-row items-center space-x-4'>
           <a
-            href='https://twitter.com/sheeptester'
+            href='https://twitter.com/typeduser'
             className='visible'
             target='_blank'
             rel='noreferrer'
