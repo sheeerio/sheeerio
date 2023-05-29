@@ -31,7 +31,7 @@
     "next-themes": "^0.2.1",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "rehype-pretty-code": "^0.9.5",
+    "rehype-pretty-code": "^0.9.6",
     "sharp": "^0.32.1",
     "shiki": "^0.14.2",
     "swr": "^2.1.5"
