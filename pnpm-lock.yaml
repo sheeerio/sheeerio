@@ -44,8 +44,8 @@ dependencies:
     specifier: 18.2.0
     version: 18.2.0(react@18.2.0)
   rehype-pretty-code:
-    specifier: ^0.9.6
-    version: 0.9.7(shiki@0.14.2)
+    specifier: ^0.9.9
+    version: 0.9.9(shiki@0.14.2)
   sharp:
     specifier: ^0.32.1
     version: 0.32.1
@@ -4957,9 +4957,9 @@ packages:
       unist-util-visit: 4.1.1
     dev: true
 
-  /rehype-pretty-code@0.9.7(shiki@0.14.2):
-    resolution: {integrity: sha512-QBYciToqn6osk7G1mnXXSfjpszB4H/ZoyS8STvr57W/dNkaRBhXhcfgzahjFB880h10xwsL8oxgDvDCpracsfg==}
-    engines: {node: ^12.16.0 || >=13.2.0}
+  /rehype-pretty-code@0.9.9(shiki@0.14.2):
+    resolution: {integrity: sha512-mlU2Qgupn9MMK31CTmWk0Ie5Vp0od+jh2vCkGDBMlPAMeAvYASn6Ois6xRmosutMT4yH/COc3R4r/PELpuUoWg==}
+    engines: {node: '>=16'}
     peerDependencies:
       shiki: '*'
     dependencies:
