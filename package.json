@@ -25,7 +25,7 @@
     "date-fns": "^2.30.0",
     "framer-motion": "^10.12.16",
     "match-sorter": "6.3.1",
-    "next": "13.4.4",
+    "next": "13.4.6",
     "next-contentlayer": "^0.3.3",
     "next-seo": "^6.0.0",
     "next-themes": "^0.2.1",
