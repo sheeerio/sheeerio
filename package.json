@@ -21,7 +21,7 @@
     "@modulz/radix-icons": "^4.0.0",
     "@radix-ui/react-tooltip": "^1.0.6",
     "@splitbee/web": "^0.3.0",
-    "contentlayer": "^0.3.3",
+    "contentlayer": "^0.3.4",
     "date-fns": "^2.30.0",
     "framer-motion": "^10.12.17",
     "match-sorter": "6.3.1",
