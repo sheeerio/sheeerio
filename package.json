@@ -23,7 +23,7 @@
     "@splitbee/web": "^0.3.0",
     "contentlayer": "^0.3.4",
     "date-fns": "^2.30.0",
-    "framer-motion": "^10.16.3",
+    "framer-motion": "^10.16.4",
     "match-sorter": "6.3.1",
     "next": "13.4.19",
     "next-contentlayer": "^0.3.4",
