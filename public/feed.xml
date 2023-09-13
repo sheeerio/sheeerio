@@ -4,7 +4,7 @@
         <description><![CDATA[Gunbir Baveja]]></description>
         <link>https://sheeerio.vercel.app</link>
         <generator>RSS for Node</generator>
-        <lastBuildDate>Wed, 13 Sep 2023 07:09:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 13 Sep 2023 07:11:41 GMT</lastBuildDate>
         <atom:link href="https://sheeerio.vercel.app/feed.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Finals are near]]></title>
@@ -21,11 +21,11 @@
             <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Stein's]]></title>
+            <title><![CDATA[Understanding Bias-Variance Tradeoff in RL through Stein's Paradox (WIP)]]></title>
             <description><![CDATA[Bias and variance in RL and statistics]]></description>
             <link>https://sheeerio.vercel.app/writing/london</link>
             <guid isPermaLink="true">https://sheeerio.vercel.app/writing/london</guid>
-            <pubDate>Wed, 22 Mar 2023 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 13 Sep 2023 00:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
