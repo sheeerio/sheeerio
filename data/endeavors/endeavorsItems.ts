@@ -9,4 +9,4 @@ export const endeavorsList = [
   },
 ]
 
-export type Endeavor = typeof endeavorsList[0]
+export type Endeavor = (typeof endeavorsList)[0]
