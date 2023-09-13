@@ -6,7 +6,7 @@ import Image from 'next/image'
 import Container from '@components/Container'
 import ExternalLink from '@components/ExternalLink'
 import { Writing } from 'contentlayer/generated'
-
+import 'katex/dist/katex.css'
 interface IWritingLayoutProps {
   children: React.ReactNode
   post: Writing
