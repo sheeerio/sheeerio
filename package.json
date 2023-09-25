@@ -52,7 +52,7 @@
     "eslint-config-prettier": "^9.0.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.32.2",
-    "globby": "^13.1.4",
+    "globby": "^13.2.2",
     "husky": "8.0.3",
     "postcss": "^8.4.22",
     "prettier": "3.0.3",
