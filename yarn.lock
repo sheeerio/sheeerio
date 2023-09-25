@@ -837,9 +837,9 @@
   version "0.7.31"
   resolved "https://registry.npmjs.org/@types/ms/-/ms-0.7.31.tgz"
 
-"@types/node@18.15.11", "@types/node@>=12.12.47", "@types/node@>=13.7.0":
-  version "18.15.11"
-  resolved "https://registry.npmjs.org/@types/node/-/node-18.15.11.tgz"
+"@types/node@20.6.5", "@types/node@>=12.12.47", "@types/node@>=13.7.0":
+  version "20.6.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.6.5.tgz#4c6a79adf59a8e8193ac87a0e522605b16587258"
 
 "@types/prop-types@*":
   version "15.7.5"
