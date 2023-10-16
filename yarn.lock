@@ -312,9 +312,9 @@
     protobufjs "^7.0.0"
     yargs "^16.2.0"
 
-"@headlessui/react@^1.7.14":
-  version "1.7.14"
-  resolved "https://registry.npmjs.org/@headlessui/react/-/react-1.7.14.tgz"
+"@headlessui/react@^1.7.17":
+  version "1.7.17"
+  resolved "https://registry.yarnpkg.com/@headlessui/react/-/react-1.7.17.tgz#a0ec23af21b527c030967245fd99776aa7352bc6"
   dependencies:
     client-only "^0.0.1"
 
