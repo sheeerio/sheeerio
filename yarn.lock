@@ -3627,9 +3627,9 @@ next-contentlayer@^0.3.1:
     "@contentlayer/core" "0.3.1"
     "@contentlayer/utils" "0.3.1"
 
-next-seo@^6.0.0:
-  version "6.0.0"
-  resolved "https://registry.npmjs.org/next-seo/-/next-seo-6.0.0.tgz"
+next-seo@^6.4.0:
+  version "6.4.0"
+  resolved "https://registry.yarnpkg.com/next-seo/-/next-seo-6.4.0.tgz#05a75b8acae881f856eb690b1f66b5e8741aa16e"
 
 next-themes@^0.2.1:
   version "0.2.1"
