@@ -29,10 +29,10 @@ const Home: NextPage = () => {
               Recent blog posts-
               <ul>
                 <li>
-                  <Link href='/writing/london'>Bias-Variance in RL</Link>
+                  <Link href='/writing/rlulsl'>Finals are near v2</Link>
                 </li>
                 <li>
-                  <Link href='/writing/acc'>Finals are near</Link>
+                  <Link href='/writing/london'>Bias-Variance in RL</Link>
                 </li>
               </ul>
             </p>
