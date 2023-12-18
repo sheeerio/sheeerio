@@ -24,7 +24,7 @@ dependencies:
     specifier: ^3.0.0
     version: 3.0.0
   framer-motion:
-    specifier: ^10.12.2
+    specifier: ^10.16.16
     version: 10.16.16(react-dom@18.2.0)(react@18.2.0)
   match-sorter:
     specifier: 6.3.1
