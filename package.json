@@ -36,7 +36,7 @@
     "rehype-katex": "^6.0.3",
     "rehype-pretty-code": "^0.9.4",
     "remark-math": "^5.1.1",
-    "sharp": "^0.33.1",
+    "sharp": "^0.33.2",
     "shiki": "^0.14.7",
     "swr": "^2.2.4"
   },
