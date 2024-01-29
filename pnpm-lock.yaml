@@ -80,7 +80,7 @@ devDependencies:
     specifier: ^5.59.0
     version: 5.62.0(eslint@8.56.0)(typescript@5.0.4)
   autoprefixer:
-    specifier: ^10.4.14
+    specifier: ^10.4.17
     version: 10.4.17(postcss@8.4.33)
   eslint:
     specifier: ^8.38.0
