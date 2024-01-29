@@ -15,7 +15,7 @@ const Home: NextPage = () => {
               Gunbir Singh Baveja
             </h1>
             <h2 className='font-extrabold text-5xl leading-tight max-w-lg'>
-              18 year old science enthusiast.
+              <s>18</s>19 year old science enthusiast.
             </h2>
           </div>
           <div className='flex flex-col gap-6 leading-7 text-secondary max-w-lg'>
@@ -28,6 +28,11 @@ const Home: NextPage = () => {
             <p>
               Recent blog posts-
               <ul>
+                <li>
+                  <Link href='/writing/schizo'>
+                    <b>Schizospeak: esolang for the freaks</b>
+                  </Link>
+                </li>
                 <li>
                   <Link href='/writing/rlulsl'>Finals are near v2</Link>
                 </li>
