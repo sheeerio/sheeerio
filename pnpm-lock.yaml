@@ -113,8 +113,8 @@ devDependencies:
     specifier: ^14.0.1
     version: 14.0.1
   husky:
-    specifier: 9.0.10
-    version: 9.0.10
+    specifier: 9.0.11
+    version: 9.0.11
   postcss:
     specifier: ^8.4.35
     version: 8.4.35
@@ -3496,8 +3496,8 @@ packages:
     resolution: {integrity: sha512-0quDb7s97CfemeJAnW9wC0hw78MtW7NU3hqtCD75g2vFlDLt36llsYD7uB7SUzojLMP24N5IatXf7ylGXiGG9A==}
     dev: false
 
-  /husky@9.0.10:
-    resolution: {integrity: sha512-TQGNknoiy6bURzIO77pPRu+XHi6zI7T93rX+QnJsoYFf3xdjKOur+IlfqzJGMHIK/wXrLg+GsvMs8Op7vI2jVA==}
+  /husky@9.0.11:
+    resolution: {integrity: sha512-AB6lFlbwwyIqMdHYhwPe+kjOC3Oc5P3nThEoW/AaO2BX3vJDjWPFxYLxokUZOo6RNX20He3AaT8sESs9NJcmEw==}
     engines: {node: '>=18'}
     hasBin: true
     dev: true
