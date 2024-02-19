@@ -37,7 +37,7 @@
     "rehype-pretty-code": "^0.9.4",
     "remark-math": "^5.1.1",
     "sharp": "^0.32.0",
-    "shiki": "^1.1.2",
+    "shiki": "^1.1.5",
     "swr": "^2.2.5"
   },
   "devDependencies": {
