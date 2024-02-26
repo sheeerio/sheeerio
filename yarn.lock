@@ -904,10 +904,10 @@
   resolved "https://registry.npmjs.org/@rushstack/eslint-patch/-/eslint-patch-1.2.0.tgz"
   integrity sha512-sXo/qW2/pAcmT43VoRKOJbDOfV3cYpq3szSVfIThQXNt+E4DfKj361vaAt3c88U5tPUxzEswam7GW48PJqtKAg==
 
-"@shikijs/core@1.1.5":
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/@shikijs/core/-/core-1.1.5.tgz#ed92e3b7c89ba150564127062c29ae715c5da875"
-  integrity sha512-cKc5vGQ4p/4sjx48BHIO7CvLaN32vqpz5Wh7v2n+U1EezGdfX4Wms7khBctKz3iCg9yYq4sfGUc2t+JWj6EUsw==
+"@shikijs/core@1.1.7":
+  version "1.1.7"
+  resolved "https://registry.yarnpkg.com/@shikijs/core/-/core-1.1.7.tgz#560de8d503ace894e36934f1e680762ed51ea394"
+  integrity sha512-gTYLUIuD1UbZp/11qozD3fWpUTuMqPSf3svDMMrL0UmlGU7D9dPw/V1FonwAorCUJBltaaESxq90jrSjQyGixg==
 
 "@sindresorhus/merge-streams@^2.1.0":
   version "2.2.0"
@@ -4665,12 +4665,12 @@ shebang-regex@^3.0.0:
   resolved "https://registry.npmjs.org/shebang-regex/-/shebang-regex-3.0.0.tgz"
   integrity sha512-7++dFhtcx3353uBaq8DDR4NuxBetBzC7ZQOhmTQInHEd6bSrXdiEyzCvG07Z44UYdLShWUyXt5M/yhz8ekcb1A==
 
-shiki@^1.1.5:
-  version "1.1.5"
-  resolved "https://registry.yarnpkg.com/shiki/-/shiki-1.1.5.tgz#9d48cd8f835706dd38ccb879c87351271583d6ba"
-  integrity sha512-754GuKIwkUdT810Xm8btuyNQPL+q3PqOkwGW/VlmAWyMYp+HbvvDt69sWXO1sm5aeczBJQjmQTTMR4GkKQNQPw==
+shiki@^1.1.7:
+  version "1.1.7"
+  resolved "https://registry.yarnpkg.com/shiki/-/shiki-1.1.7.tgz#270f7830b4d08bdf6b63eb97ef93e06c7af604de"
+  integrity sha512-9kUTMjZtcPH3i7vHunA6EraTPpPOITYTdA5uMrvsJRexktqP0s7P3s9HVK80b4pP42FRVe03D7fT3NmJv2yYhw==
   dependencies:
-    "@shikijs/core" "1.1.5"
+    "@shikijs/core" "1.1.7"
 
 side-channel@^1.0.4:
   version "1.0.4"
