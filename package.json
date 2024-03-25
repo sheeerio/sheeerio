@@ -35,7 +35,7 @@
     "react-latex-next": "^2.3.0",
     "rehype-katex": "^6.0.3",
     "rehype-pretty-code": "^0.13.0",
-    "remark-math": "^5.1.1",
+    "remark-math": "^6.0.0",
     "sharp": "^0.32.0",
     "shiki": "^1.2.0",
     "swr": "^2.2.5"
