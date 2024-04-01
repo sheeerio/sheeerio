@@ -34,7 +34,7 @@
     "react-dom": "18.2.0",
     "react-latex-next": "^2.3.0",
     "rehype-katex": "^6.0.3",
-    "rehype-pretty-code": "^0.13.0",
+    "rehype-pretty-code": "^0.13.1",
     "remark-math": "^6.0.0",
     "sharp": "^0.33.3",
     "shiki": "^1.2.0",
