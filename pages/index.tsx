@@ -15,11 +15,11 @@ const Home: NextPage = () => {
               Gunbir Singh Baveja
             </h1>
             <h2 className='font-extrabold text-5xl leading-tight max-w-lg'>
-              <s>18</s>19 year old science enthusiast.
+              19 year old science enthusiast.
             </h2>
           </div>
           <div className='flex flex-col gap-6 leading-7 text-secondary max-w-lg'>
-            <p>I am an undeclared undergraduate at UBC.</p>
+            <p>I am an incoming sophomore studying Computer Science and Statistics at UBC.</p>
             <p>
               Mainly interested in the intersection of Neuroscience and AI, and
               the simulation/creation of an artificial human-like intelligence.
