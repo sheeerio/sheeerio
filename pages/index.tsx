@@ -19,7 +19,10 @@ const Home: NextPage = () => {
             </h2>
           </div>
           <div className='flex flex-col gap-6 leading-7 text-secondary max-w-lg'>
-            <p>I am an incoming sophomore studying Computer Science and Statistics at UBC.</p>
+            <p>
+              I am an incoming sophomore studying Computer Science and
+              Statistics at UBC.
+            </p>
             <p>
               Mainly interested in the intersection of Neuroscience and AI, and
               the simulation/creation of an artificial human-like intelligence.
